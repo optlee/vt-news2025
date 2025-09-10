@@ -46,6 +46,7 @@ Economists have long warned that China’s state-directed model of debt-fuelled 
 Yet following the bursting of its property bubble in 2021, China has leaned more heavily than ever on investment, manufacturing and exports for growth as households — most of whose wealth is tied up in real estate — constrained their spending.  
 然而，随着2021年房地产泡沫破裂，中国经济增长比以往任何时候都更加依赖投资、制造业和出口，因为家庭（其大部分财富都与房地产挂钩）限制了支出。
 
+![[picture/Pasted image 20250910125901.png]]
 China’s over-dependence on manufacturing investment has taken on new urgency as its excess capacity and weak domestic demand lead the country into one of its longest periods of deflationary pressure since the 1990s. Falling prices are hurting the profitability of enterprises and the loan books of banks, and disincentivise new investment.  
 由于产能过剩和内需疲软，中国陷入了自上世纪90年代以来持续时间最长的通货紧缩压力，对制造业投资的过度依赖问题变得更加紧迫。物价下跌正在损害企业的盈利能力和银行的贷款规模，并抑制了新的投资。
 
